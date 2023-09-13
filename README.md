@@ -2,5 +2,5 @@
 - A folder for my projects made on the udemy python course that I'm taking.
 
 # What I've Learned
-- Data Structures: List, Array, Tuple, Dictionary, Sets
+- Data Structures: List, Array, Tuple, Dictionary, Set
 - NumPy
