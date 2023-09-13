@@ -1,6 +1,6 @@
-<h3>Udemy</h3>
+# Udemy
 - A folder for my projects made on the udemy python course that I'm taking.
 
-<h3>What I've Learned</h3>
+# What I've Learned
 - Data Structures: List, Array, Tuple, Dictionary, Sets
 - NumPy
