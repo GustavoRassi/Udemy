@@ -88,7 +88,7 @@ greet = 'hello'
 #greet[0] = 'H' # this will give an error
 amazon_cart[0] = 'laptop' # this won't give you an error
 print()
-new_cart = amazon_cart[0:3] # copies list to new list from index 0 to index 2 (3 is not included).
+new_cart = amazon_cart[0:3] # copies list to new list from index 0 to index 2 (3 not included).
 
 # matrix
 matrix = [
@@ -181,5 +181,11 @@ print(my_tuple.count(4)) # Returns number of occurrences of the value
 my_set = {1,2,2,3,4,5,5}
 print(f"Created Set: {my_set}") # Output: {1, 2, 3, 4, 5}
 # Since sets have unique items, the output is the unique items (no duplicates).
-item = my_set[0]
+item = None
 print(item)
+
+# Ternary operator
+# condition_if_true if condition else condition_if_else
+is_friends = False
+thismessage = "this is allowed" if is_friends else "message not allowed"
+print(thismessage)

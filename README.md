@@ -3,4 +3,5 @@
 
 <h3>What I've Learned</h3>
 - Data Structures: List, Array, Tuple, Dictionary, Sets
-- NumPy
+- Ternary operator
+- Iterables
