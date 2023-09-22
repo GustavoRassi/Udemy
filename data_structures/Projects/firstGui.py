@@ -21,3 +21,4 @@ for row in image: # iterates row
         else:
             print(' ', end='')
     print('')
+print("Udemy!")
