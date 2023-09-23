@@ -1,5 +1,5 @@
 # Udemy
-- A folder for my projects made on the udemy python course that I'm currently taking.
+- A folder for my projects made along with the udemy python course that I'm currently taking.
 
 
 # What I've Learned
