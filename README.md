@@ -4,4 +4,6 @@
 
 # What I've Learned
 - Data Structures: List, Array, Tuple, Dictionary, Set
+- Functions and methods
 - NumPy
+- File Scripting

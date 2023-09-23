@@ -1,0 +1,2 @@
+Hello World, my name is Gustavo Rassi
+I am a computer science student in my third year learning python!
