@@ -19,5 +19,8 @@ try:
         print(content)
         print(f"Number of words in the file: {word_count}")
 
+        # Check if the file is writable
+        print(f"File writable? {file1.writable()}")
+
 except FileNotFoundError: # In case the file doesn't exist
     print("Error: File does not exist.")
