@@ -6,7 +6,7 @@ sample_file = "file.txt"
 
 try:
     with open(sample_file, 'r') as file1:
-        # Read the content of the file
+        # Read the content or write in the file
         content = file1.read()
 
         # Split the string into substrings and place them in a list of words
